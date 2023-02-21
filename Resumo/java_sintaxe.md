@@ -54,7 +54,8 @@ public class MinhaClasse {
 
   - byte(1byte), short(2byte), int(4byte), long(8byte \_ usar L no final do número para forçar o uso do tipo) -> Normalmente utiliza-se o `int`
   - float(4bytes \_ usar F no final para forçar usar o tipo), double(8bytes) -> Normalmente utiliza-se o `double` devido a maior precisão
-  - boolean e char
+  - boolean (true/false)
+  - char (uma única letra)
 
 - Casting: Forçar uma variável a ser de determinado tipo de menor tamanho
 
@@ -70,3 +71,16 @@ short numeroCurto2 = (short) numeroNormal; // casting
 - Deve estar em caixa alta
 - usar palavra reservada `final`
   `final double VALOR_PI = 3.14`
+
+## Operadores
+
+- Simbolos especiais que tem significado para linguagem e realizam determinada operação
+
+  - Atribuição `=`
+  - Aritmético `+ - * /`
+  - Unário `+(positivo) -(negativo) ++(incremento) --(decremento) !(negação)`
+  - Ternario `<condição> ? <caso verdadeiro> : <caso falso>`
+  - Relacionais `== != > < >= <=`
+  - Logicos `&&(e) ||(ou)`
+
+## Métodos

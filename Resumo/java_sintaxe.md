@@ -1,6 +1,7 @@
 # Aprendendo a Sintaxe do Java
 
 - [Resumo do môdulo](https://glysns.gitbook.io/java-basico/)
+- [Arquivos desenvolvidos durante as aulas](https://github.com/Viny-Pereira/DIO-Aulas/tree/main/Sintaxe)
 
 ## Pontos base
 

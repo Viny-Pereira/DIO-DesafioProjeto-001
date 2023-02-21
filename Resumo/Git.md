@@ -30,3 +30,12 @@ Enviar para o servidor
 - Determinar um nome a url do servidor para facilitar o processo
 
 `git remote add origin "URL do servidor"`
+
+## Mudar o nome da Branch principal 
+
+```
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+
+```

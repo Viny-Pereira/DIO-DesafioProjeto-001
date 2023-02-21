@@ -47,3 +47,26 @@ public class MinhaClasse {
 - Variavel deve ser no singular com excessao de array ou coleção
 - Trabalhe o arquivo em um só idioma
 - Metodo deve ser nomeado como verbo -> `somar(){}`, `abrirConexao(){}`
+
+## Tipos de Variáveis
+
+- Tipos premitivos: tipos de dados básicos usados para criação dos demais programas:
+
+  - byte(1byte), short(2byte), int(4byte), long(8byte \_ usar L no final do número para forçar o uso do tipo) -> Normalmente utiliza-se o `int`
+  - float(4bytes \_ usar F no final para forçar usar o tipo), double(8bytes) -> Normalmente utiliza-se o `double` devido a maior precisão
+  - boolean e char
+
+- Casting: Forçar uma variável a ser de determinado tipo de menor tamanho
+
+```
+short numeroCurto = 1;
+int numeroNormal = numeroCurto;
+short numeroCurto2 = (short) numeroNormal; // casting
+```
+
+## Constante
+
+- Valores que não poderão ser modificados
+- Deve estar em caixa alta
+- usar palavra reservada `final`
+  `final double VALOR_PI = 3.14`

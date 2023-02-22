@@ -89,5 +89,10 @@ short numeroCurto2 = (short) numeroNormal; // casting
 - Convenções da comunidade
   - nomeado como verbo
   - Padrão camelCase
-- Se o metodo não retornar deve ser precedido por `void`
--
+- Se o metodo não possuir uma saida deve ser precedido por `void`
+
+## Escopo
+
+- Ambiente onde uma variável pode ser acessada
+- Parâmetros de métodos são variáveis locais primordialmente existindo apenas dentro do método;
+- Variáveis de classe podem ser usadas dentro de toda a classe.

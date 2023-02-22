@@ -96,3 +96,25 @@ short numeroCurto2 = (short) numeroNormal; // casting
 - Ambiente onde uma variável pode ser acessada
 - Parâmetros de métodos são variáveis locais primordialmente existindo apenas dentro do método;
 - Variáveis de classe podem ser usadas dentro de toda a classe.
+
+## Palavras Reservadas
+
+- Indentificadores de uma linguagem, que não podem ser usadas para nomear variáveis, classes, métodos ou atributos.
+- São 52 palavras contidas nesse [link](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
+
+## Java Doc
+
+- [Documentação Java SE](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+
+- Tags: palavra reservada no codigo que passam alguma informação
+
+- Comentário:
+
+  - Uma linha `//`
+  - Multiplas linhas `/* */`
+  - Documentação `/** */`
+
+- Javadoc - gerador de documentação a partir do codigo fonte.
+
+  - Comando javadoc em HTML
+    `javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java`

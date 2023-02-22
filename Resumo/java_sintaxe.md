@@ -118,3 +118,17 @@ short numeroCurto2 = (short) numeroNormal; // casting
 
   - Comando javadoc em HTML
     `javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java`
+
+## Terminal
+
+- Muitas vezes é necessário criar um executável, para que os usuários possam utilizar o projeto de maneira simplificada.
+- Excução via terminal
+  - Compilar `javac NomeProjeto.java`
+  - Executar`java NomeProjeto`
+
+## Argumentos
+
+- Podemos usar argumentos no formato de String para usar como logica na execução
+  - Arquivo: meuProjeto
+    `java meuProjeto <arg[1]> <args[2]> ... <args[n]>`
+- class `Scanner` faz a leitura de parametros pos execução

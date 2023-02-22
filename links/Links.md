@@ -10,3 +10,7 @@ Aqui ficarão salvos alguns links importantes que foram falados durante o decorr
 - [Download IDE Eclipse](https://www.eclipse.org/downloads/packages/installer)
 - [Download IDE IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 - [Documentação Java SE](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+
+## Material complementar
+
+- [Slides Sintaxe](https://docs.google.com/presentation/d/1UCNtQfyKPnei-1Xs_pVyku8CPEMXRPbc/edit?usp=sharing&ouid=105300330738120646134&rtpof=true&sd=true)

@@ -14,3 +14,5 @@ Aqui ficarão salvos alguns links importantes que foram falados durante o decorr
 ## Material complementar
 
 - [Slides Sintaxe](https://docs.google.com/presentation/d/1UCNtQfyKPnei-1Xs_pVyku8CPEMXRPbc/edit?usp=sharing&ouid=105300330738120646134&rtpof=true&sd=true)
+
+-[Slide Estutura de repetição](https://drive.google.com/file/d/1xNzZ3dQMATP11Dk3HWsAWdEuJfVDpnN_/view?usp=sharing)

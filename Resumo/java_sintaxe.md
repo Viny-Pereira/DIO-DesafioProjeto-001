@@ -84,3 +84,10 @@ short numeroCurto2 = (short) numeroNormal; // casting
   - Logicos `&&(e) ||(ou)`
 
 ## Métodos
+
+- São funcoes/subrotinas
+- Convenções da comunidade
+  - nomeado como verbo
+  - Padrão camelCase
+- Se o metodo não retornar deve ser precedido por `void`
+-

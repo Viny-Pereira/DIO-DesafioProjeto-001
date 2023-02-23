@@ -37,3 +37,14 @@ for (variavel inicial; i<criterio; passo){
     oQueIraRepetir;
 }
 ```
+
+## Arrays
+
+- Vetores e matrizes
+- Permanece com o tamanho que foi criado
+
+### Estrutura
+
+- Criar `<tipoDeVariáveis>[] <nomeDoVetor> = {<elementosDoArray>}`
+- Criar `<tipoDeVariáveis>[] <nomeDoVetor> = new type[<tamanho>]`
+- Acessar `nomeArray[<numero>]`

@@ -92,6 +92,11 @@ imprimeLista(minhaLista);
 
 ## 4. Listas encadeadas
 
+- `add(n)` adiciona um nó na posição n da fila
+- `remove(n)` elimina o elemento n da fila
+- `get(n)` pega a informação do nó n
+- `isEmpty()`
+
 ## 5. Listas Duplamente Encadeadas
 
 ## 6. Listas Circulares

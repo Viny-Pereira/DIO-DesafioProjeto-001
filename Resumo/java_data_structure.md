@@ -75,7 +75,20 @@ imprimeLista(minhaLista);
 
 ## 2. Pilhas
 
+- Last In First Out (LIFO) - O primeiro a entrar é o ultimo a sair
+- Metódo Top (Verifica a informação do superior) `.top`
+- Método Pop (Receber o dado e tirar o nó) `.pop`
+- Metodo push (inserir o nó)
+- `isEmpty()`
+
 ## 3. Filas
+
+- First In Firt Out (FIFO) - Primeiro entrar primeiro a sair
+- A informação do nó é um objeto
+
+- `enqueue()` adiciona um nó no final da fila
+- `dequeue()` elimina o primeiro elemento da fila
+- `isEmpty()`
 
 ## 4. Listas encadeadas
 

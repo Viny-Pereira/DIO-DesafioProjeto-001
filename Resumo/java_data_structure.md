@@ -99,6 +99,14 @@ imprimeLista(minhaLista);
 
 ## 5. Listas Duplamente Encadeadas
 
+- Cada nó dessa lista possui a referencia da nota posterior e anterior
+- Possui uma referencia de ultimo nó
+
+- `add(el, n)` adiciona um nó na posição n da fila
+- `remove(n)` elimina o elemento n da fila
+- `get(n)` pega a informação do nó n
+- `isEmpty()`
+
 ## 6. Listas Circulares
 
 ## 7. Arvores

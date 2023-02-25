@@ -127,3 +127,36 @@ imprimeLista(minhaLista);
 - PostOrde -> (EDR)
 
 ## 8. Principais implementações das estruturas de dados do Java
+
+- Melhor busca de elementos
+
+  - `Equals()` -> Verificar se um objeto é igual ao outro
+  - `hashCode()` -> Organização dos objetos
+
+- Class Stack - para pilha -> `java.util.Stack`
+
+  - `push()` - adcionar no topo
+  - `pop()` - eliminar do topo
+  - `peek()` - pegar dados do topo
+  - `empty()` - verifica se tá vazio
+
+- Class Stack - para fila -> `java.util.Queue`
+
+  - `add()` - adcionar no topo
+  - `offer()` - adcionar no topo em caso de não conseguir retorna falso
+  - `poll()` - eliminar do topo
+  - `peek)` - pegar dados do topo
+  - `isEmpty()` - verifica se tá vazio
+
+- Class List - para lista -> `java.util.List`
+
+  - `add()` - adcionar no topo
+  - `get(index)` - pegar valor no index
+  - `indexOf(conteudo)` - index do conteudo dentro da lista
+  - `remove(index)` - elimina o elemento de index
+
+- Class Set - -> `java.util.Set`
+
+  - Usado para organizar
+
+- Class Map `java.util.Map`

@@ -19,4 +19,10 @@
 
 ## 2. Sobrecarga
 
+- Capacidade de definir métodos para diversos contexto mas preservando seu contexto, modificando para isso seus parâmetros.
+- O que determina qual será chamado são os parâmetros da sua assinatura.
+
 ## 3. Retorno
+
+- Instrução de interrupção
+-

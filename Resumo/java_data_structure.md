@@ -109,6 +109,21 @@ imprimeLista(minhaLista);
 
 ## 6. Listas Circulares
 
+- O ultimo nó da fila aponta para o primeiro elemento da fila, ficando assim um ciclo fechado
+
 ## 7. Arvores
+
+- Estrutura não linear
+- O maior fica a direita e o menor a esquerda
+- Exclusão de um Nó Interno o maior nó a esquerda desse assume seu lugar
+- A utilização de Comparable torna necessário a determinação de um fator de hieraquisação dentro do Objeto analisado;
+
+### Atravessamento
+
+    - E(Esquerda) R(Raiz-centro) D(direita)
+
+- InOrder -> (ERD) Mostra os valores em ordem crescente
+- PreOrder -> (RED)
+- PostOrde -> (EDR)
 
 ## 8. Principais implementações das estruturas de dados do Java
